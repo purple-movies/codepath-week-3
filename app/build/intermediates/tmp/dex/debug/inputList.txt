@@ -1,0 +1,11 @@
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/classes/debug
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-705b76496e5b26d84d9e7b01cdcfa94a9f30bf7e.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/codepath-utils-10e2f11eef27626eca03b61b5992d7ecde3cd12d.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-fc609b3863af596337f3b2d3a354811afcb2ac3f.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-08c6335cd-49d6319b923cd1fb5b7530871a8186c0ebf33bf9.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-39c770dcc272358f987c43dad12a0ba2c845aa0d.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-693e41ef22dde3eb82d086200292587c9647fef2.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-e1a65f036cccd2af85a1ace698b9d82f58048932.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-ca27a03200297a333f20bfeb6decc69f760ca394.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/classes-40a81537b93cf95da2b432aea982ed9c60e11aaf.jar
+/home/ash/IdeaProjects/edmodo2/src/github.com/edmodo/codepath-week-3/app/build/intermediates/pre-dexed/debug/classes-6f33e90d624a1a655b3fa5e698a53c25e0691034.jar
