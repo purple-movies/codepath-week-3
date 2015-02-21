@@ -28,7 +28,6 @@ public class User {
 
     public static User fromJSON(JSONObject object) {
         User u = new User();
-
         try {
             u.name = object.getString("name");
             u.uid = object.getLong("id");
@@ -37,8 +36,6 @@ public class User {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        
         return u;
-
     }
 }
